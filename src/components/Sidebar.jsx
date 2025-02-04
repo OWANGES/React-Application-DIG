@@ -25,6 +25,11 @@ export default function Sidebar() {
   // its own item.
   return (
     <div>
+      <ul>
+        <li>Coffee</li>
+        <li>Espresso</li>
+        <li>Coldbrew</li>
+      </ul>
       <input
         type="text"
         id="newMenuItemValue"
